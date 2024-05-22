@@ -116,3 +116,5 @@ DEPLOYMENT STEPS:
 
        kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/master/deploy/static/provider/cloud/deploy.yaml
        kubectl get all -n ingress-nginx
+
+![image](https://github.com/denis-314/Load-Balancer-and-Ingress-Controller----k8s/assets/112620749/cad6a94c-dcab-4ce5-8786-89bfc75012f9)
