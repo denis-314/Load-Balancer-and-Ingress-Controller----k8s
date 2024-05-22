@@ -103,6 +103,10 @@ DEPLOYMENT STEPS:
        kubectl get l2advertisement -n metallb-system
 
 ---
+
+![image](https://github.com/denis-314/Load-Balancer-and-Ingress-Controller----k8s/assets/112620749/6f6fd8d7-790c-465c-87cd-d79a9840c6e9)
+
+
 **II. INGRESS SERVICE**
 
 2. Install NGINX as Ingress Controller:
